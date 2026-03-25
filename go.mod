@@ -15,6 +15,6 @@ require (
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/urfave/cli/v3 v3.7.0
+	github.com/urfave/cli/v3 v3.8.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
